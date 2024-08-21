@@ -9,6 +9,11 @@
     padding: 20px;
 }
 
+header {
+    position: sticky;
+    top:0;
+}
+
 li {
     padding: 20px;
 }
